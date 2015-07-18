@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResedModel>
+  <ModelConfigure>                                                                                            
+    <Feedback Name="防災楊門" MailAddress="resedmodelfeedback@gmail.com" Key="F9BB6373DC6080619CC29961016354C507FC4A5F78E3B2334E3B80D66D4191EA">
+      <FeedbackItem Name="水理模組意見回饋信箱" MailAddress="resedmodelfeedback@gmail.com" />
+    </Feedback>
+  </ModelConfigure>
+</ResedModel>
