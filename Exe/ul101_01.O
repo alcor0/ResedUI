@@ -1,0 +1,28 @@
+ ul101_01.i                              
+  ul101_01.O                             
+          eroutfile=                     ul101_01.er                            
+ 3D INFO:  ul101.dat                               
+ 3D OUT INFO:  out                                     
+1
+
+ 2011m4.i       m4.dat                             ul101_01.i
+
+
+ DYNAMIC ALLOCATION PARAMETERS: ITOTAL=  95 JTOTAL=  42 KMAX=   2 LMAX=  10 MAXSEG=  50 NUMBDT=   0 IJMAX=  95 NSVAR=   5 NSVAR1=   6Pmax=   0
+
+
+ RESTART-PLOT PARAMETERS: NPLOT=   0 NPLT=   1 NSEDRE=   0 NSDR=   0 NREST=   0 NRESED=   0 RESTIM=            0.00
+
+
+ NBUGS,NBUGE=      20       0      20       0      20       0      20       0      20       0
+                   20       0      20       0      20       0      20       0      20       0
+                   20       0      20       0      20       0      20       0      20       0
+                    0  100000      20       0      20       0      20       0      20       0
+                   20       0      20       0      20       0      20       0       0  100000
+                   20       0      20       0      20       1       4       0      20       0
+                   20       0      20       0      20       0      20       0      20       0
+                   20       0      20       0      20       0      20       0      20       0
+                   20       0      20       0      20       0      20       0      20       0
+                   20       0      20       0      20       0      20       0      20       0
+                    1       1       1       1       0       0       1       1       1       0
+                   20       0
